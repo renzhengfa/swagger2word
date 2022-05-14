@@ -19,8 +19,9 @@ spring:
 
 # Swagger json url address
 # etc. https://petstore.swagger.io/
-#swagger.url: https://petstore.swagger.io/v2/swagger.json
-swagger.url: http://192.168.2.121:8082/v2/api-docs?group=密集架模块管理
+# swagger.url: https://petstore.swagger.io/v2/swagger.json
+# 配置需要导出的swagger接口模块地址
+swagger.url: http://192.168.2.121:8082/v2/api-docs?group=档案管理模块接口
 
 
 
